@@ -36,7 +36,7 @@ def problem_text(day):
 
 def generate_template(day):
     nb = nbf.v4.new_notebook()
-    title = '# Advent of Code 2017: Day {}'.format(day)
+    title = '# Advent of Code 2017: [Day {0}](http://adventofcode.com/2017/day/{0})'.format(day)
     problem_header = '## Problem statement'
     problem = problem_text(day)
     breakdown = '## Breaking down the problem\n- **Task**:\n- <font color=\'green\'>Input</font>:' \
