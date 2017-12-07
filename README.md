@@ -8,3 +8,4 @@ Notebooks are best viewed in Jupyter's [notebook viewer](http://nbviewer.jupyter
 - [Day 4: High-Entropy Passphrases](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day4.ipynb)
 - [Day 5: A Maze of Twisty Trampolines, All Alike](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day5.ipynb)
 - [Day 6: Memory Reallocation](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day6.ipynb)
+- [Day 7: Recursive Circus](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day7.ipynb)
