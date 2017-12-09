@@ -10,3 +10,4 @@ Notebooks are best viewed in Jupyter's [notebook viewer](http://nbviewer.jupyter
 - [Day 6: Memory Reallocation](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day6.ipynb)
 - [Day 7: Recursive Circus](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day7.ipynb)
 - [Day 8: I Heard You Like Registers](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day8.ipynb)
+- [Day 9: Stream Processing](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day9.ipynb)
