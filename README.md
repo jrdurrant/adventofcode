@@ -16,3 +16,4 @@ Notebooks are best viewed in Jupyter's [notebook viewer](http://nbviewer.jupyter
 - [Day 12: Digital Plumber](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day12.ipynb)
 - [Day 13: Packet Scanners](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day13.ipynb)
 - [Day 14: Disk Defragmentation](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day14.ipynb)
+- [Day 15: Dueling Generators](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day15.ipynb))
