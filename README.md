@@ -11,3 +11,8 @@ Notebooks are best viewed in Jupyter's [notebook viewer](http://nbviewer.jupyter
 - [Day 7: Recursive Circus](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day7.ipynb)
 - [Day 8: I Heard You Like Registers](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day8.ipynb)
 - [Day 9: Stream Processing](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day9.ipynb)
+- [Day 10: Knot Hash](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day10.ipynb)
+- [Day 11: Hex Ed](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day11.ipynb)
+- [Day 12: Digital Plumber](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day12.ipynb)
+- [Day 13: Packet Scanners](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day13.ipynb)
+- [Day 14: Disk Defragmentation](http://nbviewer.jupyter.org/github/jrdurrant/adventofcode/blob/master/Day14.ipynb)
